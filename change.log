@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu bản thân</title>
+</head>
+<body>
+    <h1>Giới thiệu bản thân</h1>
+    <p>Xin chào! Chung toi la nhom 1, đây là một trang web giới thiệu về nhom tôi.</p>
+    <!-- Khung nội tuyến chứa video yêu thích từ YouTube -->
+    <h2>Bài hát yêu thích của tôi</h2>
+    <iframe width="560" height="315" src="https://youtube.com/watch?v=5lZt4qGnr8A&si=mhxmDQzV7OhqqgBf"frameborder="0" allowfullscreen></iframe>
+    <!-- Bạn cùng lớp -->
+    <h2>Bạn cùng lớp</h2>
+    <ul>
+        <li><ahref="https://www.facebook.com/profile.php?id=100074297801155&mibextid=ZbWKwL" target="_blank">Facebook của Bạn Nhu Y</a></li>
+        <li><ahref="https://www.facebook.com/profile.php?id=100053544758418&mibextid=ZbWKwL" target="_blank">Facebook của Bạn Thuy Hang</a></li>
+        <li><ahref="https://www.facebook.com/profile.php?id=100089451507443&mibextid=ZbWKwL" target="_blank">Facebook của Bạn Quynh Nhu</a></li>
+    </ul>
+    <p>Cảm ơn bạn đã ghé thăm!</p>
+</body>
+</html>
+
